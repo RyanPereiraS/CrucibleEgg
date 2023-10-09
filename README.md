@@ -1,7 +1,7 @@
 # Crucible Egg
 Este é um Egg personalizado para o servidor [Crucible](https://cruciblemc.github.io/) no [Pterodactyl Panel](https://pterodactyl.io/).
 
-## Como Usar
+# Como Usar
 
 1. Faça o login no seu Painel Pterodactyl.
 
