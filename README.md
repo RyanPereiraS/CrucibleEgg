@@ -1,16 +1,14 @@
-# Crucible Egg
-Este é um Egg personalizado para o servidor [Crucible](https://cruciblemc.github.io/) no [Pterodactyl Panel](https://pterodactyl.io/).
+# Crucible
+Crucible is a Thermos with several improvements. We aim to close the gaps left by Thermos and extend the support for those still on 1.7.10 by adding support for long broken mods and plugins and fix serious bugs as they appear.
 
-# Como Usar
+This is a custom Egg for the server with Plugins & Mods for 1.7.10
+[Crucible](https://cruciblemc.github.io/)
 
-1. Faça o login no seu Painel Pterodactyl.
+## Server Ports
+The minecraft server requires a single port for access (default 25565) but plugins may require extra ports to enabled for the server.
+| Port  | default |
+|-------|---------|
+| Game  | 25565   |
 
-2. Navegue até a seção `Admin` e clique em `Nests`.
-
-3. Clique no botão `Import Egg` para importar um novo Egg.
-
-4. Selecione o arquivo.
-
-5. Selecione a opção Minecraft em `Associated Nest`
-
-6. Finalize.
+## Notes
+By default the downloaded version is `latest`, versions must follow the pattern `vX.X` or `staging-XXXXX` for branch builds
